@@ -1,5 +1,7 @@
 # Roger Barker ☕ 
 
+**[ DevOps | CI | Release Management ] @ Hashgraph. Software Engineer. Coffee Consumer.**
+
 | [@rbarkerSL](https://github.com/rbarkerSL) | [@DJ-BBot ](https://github.com/DJ-BBot) |
 | :--------: | :------: |
 | [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarkerSL&show_icons=true&theme=neon)](https://github.com/rbarkerSL/github-readme-stats) | [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed)](https://github.com/rbarkerSL/github-readme-stats) |
