@@ -1,6 +1,6 @@
 # Roger Barker
 
-| @rbarkerSL | @DJ-BBot |
+| [@rbarkerSL](https://github.com/rbarkerSL) | [@DJ-BBot ](https://github.com/DJ-BBot) |
 | :--------: | :------: |
 | [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarkerSL&show_icons=true&theme=neon)](https://github.com/rbarkerSL/github-readme-stats) | [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed)](https://github.com/rbarkerSL/github-readme-stats) |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbarkerSL&theme=neon&hide_border=false" height="210" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJ-BBot&theme=github_dark_dimmed&hide_border=false" height="210" width="400"> |
