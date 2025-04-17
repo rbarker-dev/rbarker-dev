@@ -5,7 +5,7 @@
 | [@rbarker-dev](https://github.com/rbarker-dev) | [@DJ-BBot ](https://github.com/DJ-BBot) |
 | :--------: | :------: |
 | ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarker-dev&show_icons=true&theme=neon) | ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=dark-gray) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed) |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbarker-dev&theme=neon&hide_border=false" height="210" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJ-BBot&theme=github_dark_dimmed&hide_border=false" height="210" width="400"> |
 
 
