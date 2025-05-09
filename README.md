@@ -1,6 +1,6 @@
 # Roger Barker ☕ 
 
-**[ Platform Manager | DevOps | CI | Release Management ] @ Hashgraph. Software Engineer. Coffee Consumer.**
+**[ Platform Manager | Release Engineering | Platform-CI | Release Management ] @ Hashgraph. Software Engineer. Coffee Consumer.**
 
 | [@rbarker-dev](https://github.com/rbarker-dev) | [@DJ-BBot ](https://github.com/DJ-BBot) |
 | :--------: | :------: |
