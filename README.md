@@ -9,7 +9,7 @@
 
 **Badge Board**
 
-[![@rbarker-dev's Holopin board](https://holopin.io/api/user/board?user=rbarkerdev)](https://holopin.io/@rbarkerdev)
+[![An image of @rbarker-dev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rbarkerdev)](https://holopin.io/@rbarkerdev)
 
 
 
