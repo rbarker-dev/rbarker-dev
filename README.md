@@ -6,7 +6,12 @@
 | :--------: | :------: |
 | ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarker-dev&show_icons=true&theme=react) | ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed) |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=react) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed) |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbarker-dev&theme=react&hide_border=false" height="210" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJ-BBot&theme=github_dark_dimmed&hide_border=false" height="210" width="400"> |
+
+**Badge Board**
+
+[![@rbarker-dev's Holopin board](https://holopin.io/api/user/board?user=rbarkerdev)](https://holopin.io/@rbarkerdev)
+
+
 
 
 <!--
