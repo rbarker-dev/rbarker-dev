@@ -1,11 +1,18 @@
 # Roger Barker ☕ 
 
+----
+
 **[ Software Engineer | Technical Lead | Release Engineering | Platform-CI | Release Management ] @ Hashgraph. Software Engineer. Coffee Consumer.**
 
-| [@rbarker-dev](https://github.com/rbarker-dev) |
-| :--------: |
-| ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarker-dev&show_icons=true&theme=react) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=react) |
+---
+
+![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarker-dev&show_icons=true&theme=react)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=react)
+
+---
 
 **Badge Board**
 
