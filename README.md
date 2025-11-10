@@ -2,10 +2,10 @@
 
 **[ Platform Manager | Release Engineering | Platform-CI | Release Management ] @ Hashgraph. Software Engineer. Coffee Consumer.**
 
-| [@rbarker-dev](https://github.com/rbarker-dev) | [@DJ-BBot ](https://github.com/DJ-BBot) |
-| :--------: | :------: |
-| ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarker-dev&show_icons=true&theme=react) | ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=react) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-BBot&show_icons=true&theme=github_dark_dimmed) |
+| [@rbarker-dev](https://github.com/rbarker-dev) |
+| :--------: |
+| ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbarker-dev&show_icons=true&theme=react) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=react) |
 
 **Badge Board**
 
