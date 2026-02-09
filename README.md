@@ -9,7 +9,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api?username=rbarker-dev&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=rbarker-dev&show_icons=true&theme=react)
 
 ---
 
